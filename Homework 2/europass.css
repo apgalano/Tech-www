@@ -1,0 +1,51 @@
+#switchform {font-size:1.25em; text-align:left;}
+hr {background: none; border: 0; clear: both; display: block; float: none; font-size: 0; padding: 0; 
+overflow: hidden; visibility: hidden;}
+
+.clearfix h1 {position:relative; top:160px; left:350px; font-size: 1.7em;}
+.clearfix h3 {position:relative; top:250px; left:350px;}
+.clearfix h4 {position:relative; top:250px; left:350px;}
+.box1 {width:600px;
+	height:100px;
+	border:0;
+	padding:0;
+	margin:0;
+	position:relative; left:350px; }
+.profile h2 {position:relative; left:230px;}
+
+.clearfix h2 {position:relative; top:80px; left:240px;}
+#skills-left { display: block; float: left; margin-right: 30px; }
+#skills-right { display: block; float: left;}
+.clearfix ul {position:relative; list-style-type:none; top:20px; left:320px;}
+
+.education h2 {position:relative; top:170px; right:230px;}
+.box2 {width:900px;
+	height:100px;
+	border:0;
+	padding:0;
+	margin:0;
+	position:relative; top:130px; right:80px;}
+	
+.box3 {   width:900px;
+	height:70px;
+	border:0;
+	padding:0;
+	margin:0;
+	position:relative; top:70px; left:350px;}
+	
+.experience h2 {position:relative; top:70px; left:200px;}
+.box4 {width:900px;
+	height:50px;
+	border:0;
+	padding:0;
+	margin:0;
+	position:relative; top:25px; left:350px;}
+	
+.interests h2{position:relative; top:40px; left:160px;}
+.box5 {width:900px;
+	height:50px;
+	border:0;
+	padding:0;
+	margin:0;
+	position:relative; top:-5px;left:350px;}
+	
